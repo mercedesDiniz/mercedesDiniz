@@ -2,9 +2,8 @@
 
 - 🎓 Meta Atual: terminar a graduação em Engenharia da Computação
 - 🧐 Atualmente Estudando: Circuitos e prototipagem com Arduino
-- 📫 How to reach me: ...
 - 🇧🇷 Região: Pará-Brasil 
-- 😄 Pronouns: ela/dela
+- 🌻 Pronouns: ela/dela
 
   ##
   
