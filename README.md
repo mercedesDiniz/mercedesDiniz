@@ -1,7 +1,7 @@
 ### Saldações, eu sou a Mercedes 🖖
 
 - 🎓 Meta Atual: terminar a graduação em Engenharia da Computação
-- 🧐 Atualmente Estudando: Introdução a Python e Linux
+- 🧐 Atualmente Estudando: ESP32 e python.
 - 🇧🇷 Região: Pará-Brasil 
 - 🌻 Pronouns: ela/dela
 
