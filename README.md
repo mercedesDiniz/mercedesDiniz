@@ -2,7 +2,7 @@
 
 - 🎓 Meta Atual: terminar a graduação em Engenharia da Computação
 - 🧐 Atualmente Estudando: ESP32 e python.
-- 🇧🇷 Região: Pará-Brasil 
+- :brazil: Região: Pará-Brasil 
 - 🌻 Pronouns: ela/dela
 
   ##
@@ -13,7 +13,6 @@
 </div>
 <div style="display: inline_block"><br>
 
-  <img align="center" alt="mercy-linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   <img align="center" alt="mercy-arduino" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg">
    <img align="center" alt="mercy-c" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="mercy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
