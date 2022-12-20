@@ -1,8 +1,8 @@
 ### Saldações, eu sou a Mercedes 🖖
 
 - 🎓 Meta Atual: terminar a graduação em Engenharia da Computação
-- 🧐 Atualmente Estudando: ESP32 e python.
-- :brazil: Região: Pará-Brasil 
+- 🧐 Atualmente Estudando: Sistemas embarcados (ESP32 e STM32).
+- Região: Pará-Brasil 
 - 🌻 Pronouns: ela/dela
 
   ##
@@ -22,8 +22,8 @@
  ##
   
  <div> 
-  <a href = "mercy.diniz82@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "mercedes.diniz@itec.ufpa.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:mercy.diniz82@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:mercedes.diniz@itec.ufpa.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
  
   ![Snake animation](https://github.com/mercedesDiniz/mercedesDiniz/blob/output/github-contribution-grid-snake.svg)
