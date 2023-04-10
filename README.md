@@ -1,4 +1,4 @@
-### Saldações, eu sou a Mercedes 🖖
+### Saudações, eu sou a Mercedes 🖖
 
 - 🎓 Meta Atual: terminar a graduação em Engenharia da Computação
 - 🧐 Atualmente Estudando: Sistemas embarcados (ESP32 e STM32).
