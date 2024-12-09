@@ -1,7 +1,7 @@
 ### Saudações, eu sou a Mercedes 🖖
 
-- 🎓 Meta Atual: terminar a graduação em Engenharia da Computação
-- 🧐 Atualmente Estudando: Sistemas embarcados (ESP32 e STM32).
+- 🎓 Formada em Engenharia da Computação pela UFPA.
+- 🧐 Atualmente Estudando: Sistemas embarcados.
 - Região: Pará-Brasil 
 - 🌻 Pronouns: ela/dela
 
