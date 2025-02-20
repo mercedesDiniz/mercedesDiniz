@@ -1,6 +1,6 @@
 ### Saudações, eu sou a Mercedes 🖖
 
-- 🎓 Engenheira de Computação. Atualmente no Programa de Pós-Graduação em Engenharia Elétrica (PPGEE-UFPA) na linha de pesquisa em processamento de sinais.
+- 🎓 Engenheira da Computação. Atualmente no Programa de Pós-Graduação em Engenharia Elétrica (PPGEE-UFPA) na linha de pesquisa em processamento de sinais.
 - Região: Pará-Brasil 
 - 🌻 Pronouns: ela/dela
 
