@@ -1,7 +1,6 @@
 ### Saudações, eu sou a Mercedes 🖖
 
-- 🎓 Formada em Engenharia da Computação pela UFPA.
-- 🧐 Atualmente Estudando: Sistemas embarcados.
+- 🎓 Engenheira de Computação. Atualmente no Programa de Pós-Graduação em Engenharia Elétrica (PPGEE-UFPA) na linha de pesquisa em processamento de sinais.
 - Região: Pará-Brasil 
 - 🌻 Pronouns: ela/dela
 
