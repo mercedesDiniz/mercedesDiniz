@@ -15,6 +15,7 @@
   <img align="center" alt="mercy-arduino" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg">
    <img align="center" alt="mercy-c" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="mercy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="mercy-Matlab" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg">
   <img align="right" alt="mercyGIF" src="https://media.giphy.com/media/BUw8GTuBlkdFFCPjd9/giphy.gif">
 </div>
   
