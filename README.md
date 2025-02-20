@@ -21,10 +21,9 @@
  ##
   
  <div> 
-  <a href = "mailto:mercy.diniz82@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "mailto:mercedes.diniz@itec.ufpa.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:mercy.diniz82@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:mercedes.diniz@itec.ufpa.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
- 
   ![Snake animation](https://github.com/mercedesDiniz/mercedesDiniz/blob/output/github-contribution-grid-snake.svg)
  
 </div>
